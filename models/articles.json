@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "My cake",
+    "author": "John Doe",
+    "published": "February 11, 2024",
+    "content": "Lorem ipsum"
+  },
+  {
+    "id": 2,
+    "title": "Not my cake",
+    "author": "Not John Doe",
+    "published": "Not February 11, 2024",
+    "content": "Not Lorem ipsum"
+  },
+  {
+    "id": 3,
+    "title": "The Return of the Cake",
+    "author": "Baker Supreme",
+    "published": "May 22, 2025",
+    "content": "After years in exile, the cake returns to reclaim the bakery."
+  }
+]
